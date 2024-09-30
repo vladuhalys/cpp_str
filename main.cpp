@@ -1,6 +1,8 @@
 #include <iostream>
 using namespace std;
 
+//Привіт! Ми з України!
+
 class MyClass
 {
 public:
